@@ -7,3 +7,4 @@ int main()
     printf("%c\r\n\n",b);
     return 0;
 }
+printf("hello world!");
